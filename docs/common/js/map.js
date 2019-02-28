@@ -10,9 +10,9 @@
 
 	//zoomSize
 	if (w <= 768) {
-		zoomSize = 7;
+		zoomSize = 12;
 	} else {
-		zoomSize = 8;
+		zoomSize = 13;
 	};
 
 	//mapSize
