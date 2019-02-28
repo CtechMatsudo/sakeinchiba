@@ -2,17 +2,17 @@
 	"use strict";
 
 	var layer, zoomSize;
-	var lat = 35.279714;
-	var lng = 140.247002;
+	var lat = 35.508871;
+	var lng = 140.226404;
 	var w = $(window).width();
 	var h = $(window).height();
 
 
 	//zoomSize
 	if (w <= 768) {
-		zoomSize = 14;
+		zoomSize = 7;
 	} else {
-		zoomSize = 15;
+		zoomSize = 8;
 	};
 
 	//mapSize
