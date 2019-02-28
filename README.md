@@ -6,9 +6,11 @@ leaflet1.3.1を使用しています。
 マップアイコンはleafletプラグインのLeaflet.awesome-markers plugin v2.0を使用しています。
 
 ## デモ
+  https://ctechmatsudo.github.io/sakeinchiba/
+  
   https://codeformatsudo.github.io/busstop_otaki/
-		
-
+  
+  
 ## 使い方
 * 自分のアカウントでGithubにログインし、このリポジトリのmasterをforkしてください。
 * 自分のアカウントにコピーされます。
